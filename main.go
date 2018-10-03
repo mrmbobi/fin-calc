@@ -20,5 +20,5 @@ func Calculate (pv float64, rate float64, term float64) float64 {
 
 func main() {
   fmt.Println(Calculate(25000, 4, 36))
-
+/* this is just a comment */
 }
